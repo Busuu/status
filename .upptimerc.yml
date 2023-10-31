@@ -16,14 +16,18 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /status
   logoUrl: https://cdn.busuu.com/homepage/29.1.8/img/busuu-icon-180x180.png
+  favicon: https://cdn.busuu.com/homepage/29.1.8/img/busuu-icon-180x180.png
   name: Busuu
-  introTitle: "**Busuu**"
+  introTitle: "**Busuu Status**"
   introMessage: ""
   navbar:
     - title: Status
       href: /
     - title: Home
       href: https://www.busuu.com/
+
+i18n:
+  footer: Busuu
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
