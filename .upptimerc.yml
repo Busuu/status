@@ -17,8 +17,8 @@ status-website:
   baseUrl: /status
   logoUrl: https://cdn.busuu.com/homepage/29.1.8/img/busuu-icon-180x180.png
   favicon: https://cdn.busuu.com/homepage/29.1.8/img/busuu-icon-180x180.png
-  name: Busuu
-  introTitle: "**Busuu Status**"
+  name: Busuu Status
+  introTitle: "**Busuu Service Status**"
   introMessage: ""
   navbar:
     - title: Status
