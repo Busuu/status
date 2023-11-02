@@ -1,7 +1,7 @@
 url: https://api.busuu.com/api/v2/health
 status: up
 code: 200
-responseTime: 372
-lastUpdated: 2023-11-01T23:03:42.646Z
+responseTime: 289
+lastUpdated: 2023-11-02T23:03:49.026Z
 startTime: 2023-10-31T08:11:26.646Z
 generator: Upptime <https://github.com/upptime/upptime>
