@@ -1,7 +1,7 @@
 url: https://api.busuu.com/api/v2/health
-status: up
-code: 200
-responseTime: 349
-lastUpdated: 2023-11-04T23:03:38.226Z
+status: down
+code: 500
+responseTime: 386
+lastUpdated: 2023-11-05T17:15:50.419Z
 startTime: 2023-10-31T08:11:26.646Z
 generator: Upptime <https://github.com/upptime/upptime>
