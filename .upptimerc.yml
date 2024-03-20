@@ -7,6 +7,8 @@ sites:
     url: https://www.busuu.com
   - name: Busuu API
     url: https://api.busuu.com/api/v2/health
+  - name: Busuu Live
+    url: https://live.busuu.com/api/liveness
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
