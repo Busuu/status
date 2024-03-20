@@ -42,5 +42,23 @@
       "2023-11-06": 7,
       "2023-11-05": 8
     }
+  },
+  {
+    "name": "Busuu Live",
+    "url": "https://live.busuu.com/api/liveness",
+    "icon": "https://icons.duckduckgo.com/ip3/live.busuu.com.ico",
+    "slug": "busuu-live",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 131,
+    "timeDay": 131,
+    "timeWeek": 131,
+    "timeMonth": 131,
+    "timeYear": 131,
+    "dailyMinutesDown": {}
   }
 ]
