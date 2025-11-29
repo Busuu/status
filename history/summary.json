@@ -4,18 +4,20 @@
     "url": "https://www.busuu.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.busuu.com.ico",
     "slug": "busuu-web",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 578,
-    "timeDay": 130,
-    "timeWeek": 128,
-    "timeMonth": 117,
-    "timeYear": 117,
-    "dailyMinutesDown": {}
+    "time": 574,
+    "timeDay": 139,
+    "timeWeek": 132,
+    "timeMonth": 119,
+    "timeYear": 119,
+    "dailyMinutesDown": {
+      "2025-11-29": 10
+    }
   },
   {
     "name": "Busuu API",
